@@ -20,3 +20,4 @@ elif pilihan == 3:
     print(f"Hasil: {hasil:.2f} Yen")
 else:
     print("Pilihan tidak valid")
+#code written by lyvo
